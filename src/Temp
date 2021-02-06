@@ -1,0 +1,10 @@
+if (map[i][n] == 1)
+				{
+					if (n == 9)
+					{
+						System.out.print("*");
+					} else
+						System.out.print("*  ");
+				}
+				
+				Prints no spaces at edge, implementing later
