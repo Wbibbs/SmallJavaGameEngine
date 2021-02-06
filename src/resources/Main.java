@@ -8,9 +8,7 @@ public class Main {
 
 	public static <E> void main(String[] args) {
 		Node<E> ll = new Node<E>();
-		ll.add("Anal");
-		ll.add("Fucker");
 		System.out.println(ll.toString());
-		
+
 	}
 }
