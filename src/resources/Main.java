@@ -1,7 +1,5 @@
 package resources;
 
-//@author William Bibbs
-//Decided to start a yearly project that is worked on daily. Going to see how it turns out, influenced from a project
 //Made in 2017 that was a small game engine made for a class
 
 public class Main {
